@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Caleb-Gawthroupe
-- 👀 I’m interested in gamedev, learning and getting in to my dream school - uwaterloo
-- 🌱 I’m currently learning C through CS50
-- 💞️ I’m looking to collaborate on projects to help me learn
+- 👋 Hi, I’m @Caleb-Gawthroupe, 16 year old programer
+- 👀 I’m interested in gamedev, cs, DS&Al, learning and trying getting in to my dream school - uwaterloo
+- 💞️ I’m looking to grow my cs skills
 - 📫 How to reach me discord - Spingky#9476
 
 <!---

@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @Caleb-Gawthroupe, 18 year old programer
+I’m a **Computer Science student at the University of Toronto** passionate about building functional, user-centric applications. Currently, I'm focusing on mobile development and exploring the intersection of software and sports.
 
-<!---
-Caleb-Gawthroupe/Caleb-Gawthroupe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Recent Projects
+* **Streetball App**: A mobile platform for the streetball community. Built with **React Native**, **Firebase**, and **Google Maps API**. 
+* **Worknest**: AI powered webapp for students and educators. Built with **HTML/CSS/JS**, **Python**, **Claude API**, and **Docker**
+
+### 🛠 Tech Stack
+* **Languages**: Python, Java, Javascript, HTML/CSS, R
+* **Mobile/Web**: Dart
+* **Backend/Tools**: Firebase, LaTeX, Git
+* **Academic Focus**: Calculus, Statistics, Data Analysis, Linear Algerbra
+
+
+### 📬 How to reach me
+* [LinkedIn](https://www.linkedin.com/in/caleb-gawthroupe-34589728a/)
+* [Email](calebgawthroupe@gmail.com)
+
+---
